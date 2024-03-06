@@ -34,17 +34,17 @@ public static int compareStrings(String word1, String word2) {
 
 public static void main(String[] args) {
         ArrayList<String> Values = new ArrayList<>();
-        Values.add("Apple");
-        Values.add("Fish");
-        Values.add("Carrot");
+        Values.add("Grape");
         Values.add("Banana");
-        
-        Values.add("Honey");
-        Values.add("Icecream");
+        Values.add("App");
         Values.add("Elephant");
         Values.add("Honey");
-        Values.add("Grape");
-        Values.add("App");
+        Values.add("Honey");
+        Values.add("Fish");
+        Values.add("Icecream");
+        Values.add("Apple");
+        Values.add("Carrot");
+
         
      
          System.out.println("Before Sorting");
